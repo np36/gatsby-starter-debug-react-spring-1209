@@ -1,6 +1,6 @@
 import React from "react";
 import { useRef, useState } from "react";
-import { useSpring, animated } from "react-spring";
+import { useSpring, animated } from "@react-spring/web";
 import { useControls } from "leva";
 
 import "./styles.css";
